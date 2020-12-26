@@ -1,2 +1,2 @@
-Hi this is a test
-User2 change the file
+First original line
+Second orignal line
